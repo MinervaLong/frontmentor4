@@ -10,12 +10,54 @@ body {
 .b {
   border: 1px solid black;
 }
+.heading {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+.heading--phone {
+  font-size: 1rem;
+}
+.files__description,
+.access__description {
+  font-size: 0.9rem;
+  text-align: center;
+}
+.image__illustration {
+  max-width: 100%;
+  height: auto;
+}
 .productive {
   background-color: #f6f6fe;
+}
+.productive__description {
+  font-size: 0.9rem;
+}
+.productive__link {
+  font-size: 0.8rem;
+}
+.testimony__description,
+.testimony__userName {
+  font-size: 0.7rem;
+}
+.testimony__userFoto {
+  max-width: 8%;
+  border-radius: 50%;
+}
+.testimony__userJob {
+  font-size: 0.6rem;
 }
 .access {
   background-color: #585989;
 }
+.access__heading {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
+}
 .footer {
   background-color: #070439;
+  font-size: 0.7rem;
+  font-weight: 400;
 }
