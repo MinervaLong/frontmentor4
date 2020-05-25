@@ -10,6 +10,9 @@ body {
 .b {
   border: 1px solid black;
 }
+.productive {
+  background-color: #f6f6fe;
+}
 .access {
   background-color: #585989;
 }
