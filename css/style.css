@@ -30,6 +30,23 @@ body {
 .productive {
   background-color: #f6f6fe;
 }
+.productive__description {
+  font-size: 0.9rem;
+}
+.productive__link {
+  font-size: 0.8rem;
+}
+.testimony__description,
+.testimony__userName {
+  font-size: 0.7rem;
+}
+.testimony__userFoto {
+  max-width: 8%;
+  border-radius: 50%;
+}
+.testimony__userJob {
+  font-size: 0.6rem;
+}
 .access {
   background-color: #585989;
 }
