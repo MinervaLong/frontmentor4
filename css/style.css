@@ -10,6 +10,10 @@ body {
 .b {
   border: 1px solid black;
 }
+.image__illustration {
+  max-width: 100%;
+  height: auto;
+}
 .productive {
   background-color: #f6f6fe;
 }
