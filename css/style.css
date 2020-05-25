@@ -19,7 +19,8 @@ body {
 .heading--phone {
   font-size: 1rem;
 }
-.files__description {
+.files__description,
+.access__description {
   font-size: 0.9rem;
   text-align: center;
 }
@@ -49,6 +50,11 @@ body {
 }
 .access {
   background-color: #585989;
+}
+.access__heading {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 700;
 }
 .footer {
   background-color: #070439;
