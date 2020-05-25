@@ -10,3 +10,9 @@ body {
 .b {
   border: 1px solid black;
 }
+.access {
+  background-color: #585989;
+}
+.footer {
+  background-color: #070439;
+}
